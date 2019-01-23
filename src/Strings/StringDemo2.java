@@ -19,6 +19,12 @@ public class StringDemo2 {
     
     // 5: Find "charAt" a.k.a. character At given index in String.
     System.out.println("The character at index 3 of string is " + userName.charAt(3));
-
+    
+    // 6: Testing out string arguments into parameter using indexOf. Returns 1.
+    System.out.println(userName.indexOf("ser"));
+    
+    // 7: Testing out char input into method parameter. Retains 6.
+    System.out.println(userName.indexOf("m"));
+    
     }
 }

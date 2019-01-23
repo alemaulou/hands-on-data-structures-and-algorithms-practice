@@ -12,7 +12,7 @@ package Strings;
 public class StringDemo {
     public static void main(String[] args) {
         String str1 = "My first string";
-        String str2 = ("My Second String"); // encapsulating in set of paranthesis, not necessary.
+        String str2 = ("My Second String"); // encapsulating in set of parentheses, not necessary.
         String str3 = new String ("My last string"); // this is redundant
         
         // Concatenation
