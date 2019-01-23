@@ -9,7 +9,7 @@ package Strings;
  * String class - part of the java.lang package.
  */
 
-public class StringDemo {
+public class stringDemo {
     public static void main(String[] args) {
         String str1 = "My first string";
         String str2 = ("My Second String"); // encapsulating in set of parentheses, not necessary.

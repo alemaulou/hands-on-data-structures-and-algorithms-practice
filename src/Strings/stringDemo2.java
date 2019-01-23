@@ -1,6 +1,6 @@
 package Strings;
 
-public class StringDemo2 {
+public class stringDemo2 {
     
     public static void main(String[] args) {
     String userName = "username@domain.edu";
