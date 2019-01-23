@@ -4,6 +4,12 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileReader;
 
+
+/*  
+ * This is good when reading a large amount of data into a string.
+ * Useful when sorting and searching data.
+ */
+
 public class stringDemo3 {
     public static void main(String[] args) throws FileNotFoundException {
         String fullText = "";
