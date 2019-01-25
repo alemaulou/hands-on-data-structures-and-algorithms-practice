@@ -6,7 +6,7 @@ package Strings;
  * String class:
  * Data type used for storing sequences of characters.
  * char is a primitive data type stores one character.
- * String class - part of the java.lang package.
+ * String class - part of the java.lang package.c
  * Derived from object class.
  */
 
